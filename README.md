@@ -5,6 +5,6 @@ License: APL v2 for the new components, an original license of the subprojects f
 
 Self-similarity code is for matlab and produces the panels in Figure 3
 
-The jupyter notebook is for the random forest statistics.
+The jupyter notebook is for the random forest statistics in Figure 5.
 
 The manuscript can be found at https://doi.org/10.1101/2021.01.28.428590
